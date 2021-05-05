@@ -28,6 +28,12 @@
           <AssociatedConnUserName />
           <FullPath>build.bat</FullPath>
         </FileNode>
+        <FileNode Name="tSQLt.zip">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>tSQLt.zip</FullPath>
+        </FileNode>
       </Items>
     </LogicalFolder>
   </Items>
