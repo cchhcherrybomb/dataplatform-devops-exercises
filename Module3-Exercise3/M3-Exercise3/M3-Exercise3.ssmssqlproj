@@ -2,13 +2,26 @@
 <SqlWorkbenchSqlProject xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" Name="M3-Exercise3">
   <Items>
     <LogicalFolder Name="Connections" Type="2" Sorted="true">
-      <Items />
+      <Items>
+        <ConnectionNode Name="vaim1-dbt-66\OliviaAdams:AIMCO\olivia.adams">
+          <Created>2021-05-05T09:47:03.4576615-06:00</Created>
+          <Type>SQL</Type>
+          <Server>vaim1-dbt-66\OliviaAdams</Server>
+          <UserName />
+          <Authentication>Windows Authentication</Authentication>
+          <InitialDB />
+          <LoginTimeout>30</LoginTimeout>
+          <ExecutionTimeout>0</ExecutionTimeout>
+          <ConnectionProtocol>NotSpecified</ConnectionProtocol>
+          <ApplicationName>Microsoft SQL Server Management Studio - Query</ApplicationName>
+        </ConnectionNode>
+      </Items>
     </LogicalFolder>
     <LogicalFolder Name="Queries" Type="0" Sorted="true">
       <Items>
         <FileNode Name="➜➜Run_This.sql">
-          <AssociatedConnectionMoniker />
-          <AssociatedConnSrvName />
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:vaim1-dbt-66\OliviaAdams:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>vaim1-dbt-66\OliviaAdams</AssociatedConnSrvName>
           <AssociatedConnUserName />
           <FullPath>➜➜Run_This.sql</FullPath>
         </FileNode>
@@ -43,14 +56,14 @@
           <FullPath>create.demo.db.sql</FullPath>
         </FileNode>
         <FileNode Name="DatabaseMigrations.schema.sql">
-          <AssociatedConnectionMoniker />
-          <AssociatedConnSrvName />
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:vaim1-dbt-66\OliviaAdams:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>vaim1-dbt-66\OliviaAdams</AssociatedConnSrvName>
           <AssociatedConnUserName />
           <FullPath>DatabaseMigrations.schema.sql</FullPath>
         </FileNode>
         <FileNode Name="DatabaseMigrations.Version0002.ssp.sql">
-          <AssociatedConnectionMoniker />
-          <AssociatedConnSrvName />
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:vaim1-dbt-66\OliviaAdams:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>vaim1-dbt-66\OliviaAdams</AssociatedConnSrvName>
           <AssociatedConnUserName />
           <FullPath>DatabaseMigrations.Version0002.ssp.sql</FullPath>
         </FileNode>
